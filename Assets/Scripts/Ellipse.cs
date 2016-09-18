@@ -10,7 +10,7 @@ public class Ellipse : MonoBehaviour
   public float ellipseScaleY = 2f;
   public float ellipseRadius = 2f;
 	
-	void OnRenderObject()
+  void OnRenderObject()
   {
     ellipseLineRenderer.SetVertexCount(ellipseVertexCount);
 
