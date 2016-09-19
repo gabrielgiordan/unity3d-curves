@@ -11,6 +11,11 @@ Practicing math skills while coding with Unity3D.
 ![epicycloid](https://cloud.githubusercontent.com/assets/5347035/18638339/1ddb0076-7e66-11e6-92fa-bc861380bcf7.gif)
 
 
+###### Lissajous Curve
+
+![lissajouscurve](https://cloud.githubusercontent.com/assets/5347035/18642293/851f458e-7e76-11e6-9d73-f0a6aee9dd4c.gif)
+
+
 ###### Sine Wave
 
 ![sinwave](https://cloud.githubusercontent.com/assets/5347035/18618758/7b3bb006-7dc3-11e6-92a0-74155221e578.gif)
@@ -35,3 +40,7 @@ Practicing math skills while coding with Unity3D.
 
 ![ovalofbooth](https://cloud.githubusercontent.com/assets/5347035/18621533/1daa2052-7dfb-11e6-821d-3f14246d500b.gif)
 
+
+###### Basin 2D
+
+![basin2d](https://cloud.githubusercontent.com/assets/5347035/18642329/a4712b96-7e76-11e6-8514-40adc1c2954f.gif)
