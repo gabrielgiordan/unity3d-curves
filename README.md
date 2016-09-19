@@ -1,4 +1,4 @@
-# Unity3D Coding Math
+# Unity3D Curves
 2D curves, 3D curves, surfaces and fractals.
 
 ###### Hypocycloid
