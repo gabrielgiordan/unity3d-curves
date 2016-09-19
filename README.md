@@ -1,6 +1,34 @@
 # Unity3D Coding Math
 Practicing math skills while coding with Unity3D.
 
+2D Curves
+* Astroid
+* Basin 2D
+* Bifolium
+* Cardioid
+* Circle Involute
+* Conchoid of Nicomedes
+* Cycloid
+* Deltoid
+* Diokles Cissoid
+* Epicycloid
+* Hearth
+* Hyperbola
+* Hypocycloid
+* Kiss Curve
+* Lemniscate of Bernoulli
+* Lemniscate of Booth
+* Lemniscate of Gerono
+* Lissajous Curve
+* Nephroid
+* Newtons Strophoid
+* Oval of Booth
+* Parabola
+* Quatrefoil Curve
+* Simple Folium
+* Sin Curve
+* Trisectrix of Maclaurin
+
 ###### Hypocycloid
 
 ![hypocycloid](https://cloud.githubusercontent.com/assets/5347035/18638336/1b4348d2-7e66-11e6-88a3-dc926c97f0c8.gif)
