@@ -1,6 +1,15 @@
 # Unity3D Coding Math
 Practicing math skills while coding with Unity3D.
 
+###### Hypocycloid
+
+![hypocycloid](https://cloud.githubusercontent.com/assets/5347035/18638336/1b4348d2-7e66-11e6-88a3-dc926c97f0c8.gif)
+
+
+###### Epicycloid
+
+![epicycloid](https://cloud.githubusercontent.com/assets/5347035/18638339/1ddb0076-7e66-11e6-92fa-bc861380bcf7.gif)
+
 
 ###### Sine Wave
 
