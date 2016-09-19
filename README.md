@@ -1,33 +1,5 @@
 # Unity3D Coding Math
-Practicing math skills while coding with Unity3D.
-
-2D Curves
-* Astroid
-* Basin 2D
-* Bifolium
-* Cardioid
-* Circle Involute
-* Conchoid of Nicomedes
-* Cycloid
-* Deltoid
-* Diokles Cissoid
-* Epicycloid
-* Hearth
-* Hyperbola
-* Hypocycloid
-* Kiss Curve
-* Lemniscate of Bernoulli
-* Lemniscate of Booth
-* Lemniscate of Gerono
-* Lissajous Curve
-* Nephroid
-* Newtons Strophoid
-* Oval of Booth
-* Parabola
-* Quatrefoil Curve
-* Simple Folium
-* Sin Curve
-* Trisectrix of Maclaurin
+2D curves, 3D curves, surfaces and fractals.
 
 ###### Hypocycloid
 
@@ -72,3 +44,33 @@ Practicing math skills while coding with Unity3D.
 ###### Basin 2D
 
 ![basin2d](https://cloud.githubusercontent.com/assets/5347035/18642329/a4712b96-7e76-11e6-8514-40adc1c2954f.gif)
+
+What's available for now:
+
+2D Curves
+* Astroid
+* Basin 2D
+* Bifolium
+* Cardioid
+* Circle Involute
+* Conchoid of Nicomedes
+* Cycloid
+* Deltoid
+* Diokles Cissoid
+* Epicycloid
+* Hearth
+* Hyperbola
+* Hypocycloid
+* Kiss Curve
+* Lemniscate of Bernoulli
+* Lemniscate of Booth
+* Lemniscate of Gerono
+* Lissajous Curve
+* Nephroid
+* Newtons Strophoid
+* Oval of Booth
+* Parabola
+* Quatrefoil Curve
+* Simple Folium
+* Sin Curve
+* Trisectrix of Maclaurin
